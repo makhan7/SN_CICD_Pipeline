@@ -10,7 +10,7 @@
     "devServer": "nodemon --ignore db/**/* --verbose --delay 2 server.js",
     "devWorker": "nodemon --ignore db/**/* --verbose --delay 2 worker.js"
   },
-  "author": "Boris Moers",
+  "author": "Mohammed A Khan",
   "license": "ISC",
   "dependencies": {
     "bluebird": "3.5.1",

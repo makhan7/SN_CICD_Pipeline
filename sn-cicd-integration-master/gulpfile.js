@@ -32,7 +32,7 @@ gulp.task('namespace', function () {
         set it below and run 'gulp namespace --name your-name-space'
     */
     
-    const customNameSpace = arg.name;
+    const customNameSpace = "https://dev71151.service-now.com";
     if (!customNameSpace)
         throw Error('run: gulp namespace --name your-name-space')
 
