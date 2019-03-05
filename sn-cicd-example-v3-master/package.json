@@ -13,6 +13,7 @@
   "author": "Mohammed A Khan",
   "license": "ISC",
   "dependencies": {
+    "bcrypt": "^3.0.4",
     "bluebird": "3.5.1",
     "dotenv": "6.0.0",
     "nodemon": "1.17.3",
